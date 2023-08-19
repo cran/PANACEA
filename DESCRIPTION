@@ -1,6 +1,6 @@
 Package: PANACEA
 Title: Personalized Network-Based Anti-Cancer Therapy Evaluation
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person(given = "Ege",
            family = "Ulgen",
@@ -35,7 +35,7 @@ LazyData: true
 LazyDataCompression: xz
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2023-05-01 15:21:06 UTC; egeulgen
+Packaged: 2023-08-19 12:57:02 UTC; egeulgen
 Author: Ege Ulgen [aut, cre, cph] (<https://orcid.org/0000-0003-2090-3621>)
 Repository: CRAN
-Date/Publication: 2023-05-02 21:10:05 UTC
+Date/Publication: 2023-08-19 13:22:36 UTC
